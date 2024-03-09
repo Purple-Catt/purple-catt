@@ -29,7 +29,7 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : []
+plugins             : [- jekyll-remote-theme]
 
 # Conversion
 markdown            : kramdown
@@ -70,4 +70,4 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
 
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
