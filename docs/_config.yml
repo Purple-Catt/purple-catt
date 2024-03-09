@@ -28,9 +28,8 @@ future              : false
 unpublished         : false
 
 # Plugins
-remote_theme: pages-themes/minimal@v0.2.0
 whitelist           : []
-plugins             : [jekyll-remote-theme]
+plugins             : []
 
 # Conversion
 markdown            : kramdown
@@ -70,3 +69,5 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+
+theme: jekyll-theme-minimal
