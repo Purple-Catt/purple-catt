@@ -1,0 +1,169 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Marco Del Pistoia
+Marco Del Pistoia
+Data Science Master student
+
+Show Contacts
+
+Email
+m.delpistoia@outlook.com
+
+Phone
++39 3921570726
+
+Birthday
+March 17, 2001
+
+Location
+Pisa, Italy
+
+# navbar
+
+About
+Resume
+Portfolio
+Contact
+
+# about
+
+About me
+
+I'm a master student in Data Science at the University of Pisa with a strong academic background in banking and finance. I enjoy bridging my two passions about computer science and applied math with some projects that also help me improving my proficiency in Python, Machine Learning and time series analysis.
+
+Beyond my academic journey, I'm an amateur drummer and an animals lover. I'm committed to applying my skills and knowledge to real-world challenges.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+## testimonials
+
+Testimonials
+
+alt = Daniel lewis
+Daniel lewis
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Jessica miller
+Jessica miller
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Emily evans
+Emily evans
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Henry william
+Henry william
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+MSc Data Science and Business Informatics - University of Pisa
+2023 — ongoing
+The hands-on approach is the pillar of this MSc; for each exam, team working on a real-world project is highly encouraged, improving team working skills and a problem solving and result driven way of thinking. A deep knowledge of Python and its major libraries - Scipy, Scikit-learn, NUmpy, Pandas, TensorFlow etc. - is achieved.
+
+Bachelor's Degree Banking and Finance - University of Pisa
+2020 — 2023
+Relevant exams includes **Corporate finance** (A) | **Financial mathematics** (A) | **Data analysis lab** (A+). Thesis: The evolution of the markets managed by Borsa Italiana in its transition from the LSEG to Euronext.
+
+High school Diploma in industrial automation
+2015 — 2020
+Developing and programming industrial automated control systems
+
+Experience
+
+Head waiter
+2021 — Present
+Main tasks involved: supplier management, staff coordination in addition to the regular waiter's duties. I developed solid **time management** and **organizational** skills in a dynamic environment
+
+Intern insurance agency Helvetia
+Summer 2021
+Definition and conclusion of insurance contracts | customer call management
+
+My skills
+
+Python
+95%
+R
+70%
+Excel
+90%
+PowerPoint
+80%
+SQL
+70%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Academic projects
+Personal projects
+
+Select category
+All
+Academic projects
+Personal projects
+
+alt = mt5 tradingbot
+MT5 TradingBot
+Personal projects
+
+alt = data mining on spotify
+Data Mining on Spotify
+Academic projects
+
+alt = nn non-differentiable optimization
+NN Non-differentiable Optimization
+Academic projects
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
