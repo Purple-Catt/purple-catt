@@ -157,13 +157,3 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
-
-
-// Contact Me form
-function SendMessage() {
-    var email = document.getElementById('email');
-    var fullname = document.getElementById('fullname');
-    var message = document.getElementById('message');
-    var object = "Contact Message GitHub"
-    location.href = "mailto:" + email + "?Subject=" + object + "&Body=" + message;
-}
