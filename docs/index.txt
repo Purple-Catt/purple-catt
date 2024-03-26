@@ -61,10 +61,9 @@ I make high-quality photos of any category at a professional level.
 
 Testimonials
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
+alt = Algorithmic Trading Framework
+Algorithmic Trading Framework
+This project provides a framework to implement fully automatic trading strategies on Forex market and the possibility of backtesting and live trading. The scripts use the MetaTrader5 Python API to connect with the broker and execute the orders and is also available a feature to receive instant messages on Telegram whenever an order is executed, a position is closed and the profit of the latter.
 alt = Jessica miller
 Jessica miller
 Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
